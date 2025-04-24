@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ManejadorDeConexionesApplication<manejador_de_conexiones>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jhecohe.manejador_de_conexiones.ManejadorDeConexionesApplication",
+            "projectName": "manejador_de_conexiones",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
